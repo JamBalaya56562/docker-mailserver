@@ -55,7 +55,7 @@ $ docker compose up -d
 $ docker compose logs
 ```
 
-## :package: Credits
+## 📦 Credits
 
 This software uses the following packages:
 
