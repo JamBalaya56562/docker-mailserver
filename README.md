@@ -30,8 +30,8 @@ $ git clone https://github.com/JamBalaya56562/docker-mailserver
 ```
 
 ### 2. Set variables in the `.env` file
-`DOMAIN1` is mail server domain.  
-`DOMAIN2` is host server domain.  
+`DOMAIN1` is **mail** server domain.  
+`DOMAIN2` is **host** server domain.  
 `NETWORK` is whatever you like.
 
 ```diff
