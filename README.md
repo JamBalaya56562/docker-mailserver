@@ -55,6 +55,10 @@ $ docker compose up -d
 $ docker compose logs
 ```
 
+## 📑 Reference
+
+[Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)
+
 ## 📦 Credits
 
 This software uses the following packages:
