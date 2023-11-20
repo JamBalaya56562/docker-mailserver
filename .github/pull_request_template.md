@@ -7,7 +7,7 @@
 
 <!-- **Please explain what your changes do**, example: -->
 
-- [ ] Documentation or TypeScript types (it's okay to leave the rest blank in this case)
+- [ ] Documentation (it's okay to leave the rest blank in this case)
 - [ ] Code changes
 
 ### How did you verify your code works?
