@@ -1,0 +1,17 @@
+docker:
+- changed-files:
+  - any-glob-to-any-file: 'compose.yml'
+env:
+- changed-files:
+  - any-glob-to-any-file: '*.env'
+documentation:
+- changed-files:
+  - any-glob-to-any-file: '**/*.md'
+ci:
+- changed-files:
+  - any-glob-to-any-file: ['.github/workflows/*.yml', '.github/dependabot.yml']
+vscode:
+- changed-files:
+  - any-glob-to-any-file: '.vscode/*'
+enhancement:
+ - head-branch: ['^feature', 'feature', '^enhancement', 'enhancement']
